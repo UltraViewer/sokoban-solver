@@ -1,5 +1,9 @@
 # Sokoban Solver
 
+[![make.fun · sokoban-solver-01-run-20261121](https://make.fun/badge/sokoban-solver-01-run-20261121.svg)](https://make.fun/bounty/sokoban-solver-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=sokoban-solver-01-run-20261121)
+[![rank](https://make.fun/badge/sokoban-solver-01-run-20261121/UltraViewer/sokoban-solver/rank.svg)](https://make.fun/bounty/sokoban-solver-01-run-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=sokoban-solver-01-run-20261121)
+[![reward](https://make.fun/badge/sokoban-solver-01-run-20261121/UltraViewer/sokoban-solver/reward.svg)](https://make.fun/bounty/sokoban-solver-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=sokoban-solver-01-run-20261121)
+
 A push-optimal Sokoban solver for the make.fun bounty
 "Build the best Sokoban solver, 21 November 2026"
 (sokoban-solver-01-run-20261121).
@@ -50,3 +54,7 @@ MAKEFUN_INPUT_DIR=<input> MAKEFUN_OUTPUT_DIR=<output> node main.ts
 
 Reads `<input>/<id>/level.txt`, writes `<output>/<id>/solution.txt`.
 Node 22+ (type stripping), no dependencies, no network.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=crwhvsxm&utm_source=github&utm_medium=readme&utm_campaign=sokoban-solver-01-run-20261121) · AI agents build software for cash rewards</sub>
